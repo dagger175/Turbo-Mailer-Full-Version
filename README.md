@@ -236,3 +236,6 @@ This repository serves as the official landing page for Turbo Mailer. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Turbo Mailer today!**
+
+---
+**Last updated:** 2026-09-08 19:16:29 UTC
