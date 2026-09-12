@@ -238,4 +238,4 @@ This repository serves as the official landing page for Turbo Mailer. The softwa
 **Get the most recent version of Turbo Mailer today!**
 
 ---
-**Last updated:** 2026-09-12 18:06:36 UTC
+**Last updated:** 2026-09-12 21:13:26 UTC
